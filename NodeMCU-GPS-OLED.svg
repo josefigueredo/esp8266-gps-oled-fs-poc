@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='4.85943in' height='2.08904in' viewBox='0 0 349.879 150.411' >
+<g partID='854237480'><g transform='translate(254.299,35.6)' ><g transform='matrix(1,-3.33067e-16,3.33067e-16,1,0,0)'  ><g  id="breadboard">
+ <g  id="icon">
+  <path  d="M0,0L0,41.04A2.16,2.16,0,0,1,0,45.36L0,86.4L76.7606,86.4L76.7606,0L0,0z" fill="#1F7A34" stroke="none" stroke-width="0"/>
+  <g transform="matrix(1, 0, 0, 1, 7.2, 11.6645)">
+   <g >
+    <rect  fill="#BA9F38" x="0" y="1.063" height="63.071" width="62.361"/>
+    <rect  fill="#BA9F38" x="0" y="1.063" height="63.071" width="62.361"/>
+    <rect  fill="#1F7A34" x="1.732" y="2.68" height="41.172" width="12.261"/>
+    <rect  fill="#F4F4F4" x="2.602" y="41.224" height="3.002" width="8.89999"/>
+    <rect  fill="#DFD5A4" x="3.242" y="23.939" height="17.104" width="8.26099"/>
+    <rect  fill="#7B7F7E" x="0.868003" y="11.844" height="9.74297" width="10.991"/>
+    <rect  fill="#FFFFFF" x="0.868003" y="21.302" height="0.284" opacity="0.2" width="10.991"/>
+    <rect  x="34.912" y="2.411" height="5.077" width="3.242"/>
+    <polygon  points="1.732,45.771,13.992,45.771,13.992,43.621,16.019,43.621,16.019,2.411,12.195,2.411,12.227,5.469,10.328,5.469,6.106,9.78502,6.106,42.977,1.732,42.977" opacity="0.2"/>
+    <g >
+     <polygon  fill="#3D3D3D" points="36.944,2.411,36.944,7.79299,36.807,7.79299,36.807,2.411,12.595,2.411,12.595,43.379,1.333,43.379,1.333,62.788,61.031,62.788,61.031,2.411"/>
+    </g>
+    <rect  fill="#FFFFFF" x="60.763" y="55.171" height="7.33399" opacity="0.2" width="0.269"/>
+    <rect  fill="#FFFFFF" x="60.763" y="2.411" height="7.335" opacity="0.2" width="0.269"/>
+    <rect  fill="#FFFFFF" x="37.209" y="2.411" height="0.269" opacity="0.2" width="23.554"/>
+    <rect  fill="#FFFFFF" x="12.866" y="2.411" height="0.269" opacity="0.2" width="23.668"/>
+    <rect  fill="#FFFFFF" x="36.944" y="2.411" height="7.335" opacity="0.2" width="0.268"/>
+    <rect  fill="#FFFFFF" x="36.534" y="2.411" height="7.335" opacity="0.2" width="0.267"/>
+    <rect  fill="#FFFFFF" x="12.599" y="2.411" height="7.335" opacity="0.2" width="0.268"/>
+    <rect  fill="#F4F4F4" x="3.832" y="3.668" height="2.067" opacity="0.15" width="5.062"/>
+    <polygon  fill="#CB9D7C" points="13.218,58.81,57.766,58.81,61.676,54.854,61.676,10.073,57.766,6.119,13.218,6.119,9.30802,10.073,9.30802,54.854"/>
+    <rect  fill="#FFFFFF" x="13.46" y="10.183" height="44.562" width="44.062"/>
+    <circle  fill="#3D3D3D" cx="45.081" cy="35.841" opacity="0.3" r="3.264"/>
+    <circle  fill="#3D3D3D" cx="45.08" cy="35.841" opacity="0.05" r="3.968"/>
+    <circle  fill="#FFFFFF" cx="44.778" cy="36.068" r="2.843"/>
+    <path  d="M45.917,34.094c0.071,-0.126,0.032,-0.262,-0.102,-0.312c-0.313,-0.121,-0.682,-0.198,-1.038,-0.199c-0.359,0,-0.722002,0.0750002,-1.037,0.199c-0.136,0.05,-0.175,0.186,-0.103,0.312l0.960998,1.665c0.174,0.301,0.18,0.311,0.357,0L45.917,34.094z" fill="#3D3D3D" opacity="0.05"/>
+    <g  opacity="0.5">
+     <path  d="M44.058,34.819c0.209,-0.129,0.454,-0.209,0.719,-0.209c0.267,0,0.513,0.0799999,0.723002,0.209l0.418,-0.726998c0.071,-0.126,0.032,-0.262,-0.102,-0.312c-0.313,-0.121,-0.682,-0.198,-1.038,-0.199c-0.359,0,-0.722002,0.0750002,-1.037,0.199c-0.136,0.05,-0.175,0.186,-0.103,0.312L44.058,34.819z" fill="#3D3D3D" opacity="0.1"/>
+    </g>
+    <rect  fill="#FFFFFF" x="1.333" y="62.502" height="0.286" opacity="0.2" width="59.698"/>
+    <g transform="matrix(-1, 0, 0, -1, 55.3147, 50.1299)">
+     <text  fill="#CCCCCC" font-family="'OCRA'" font-size="3.1981">EM-406A GPS</text>
+    </g>
+    <rect  fill="#F4F4F4" x="0.994003" y="23.939" height="17.104" width="2.356"/>
+   </g>
+  </g>
+ </g>
+ <g transform="matrix(1, 0, 0, 1, 26.431, 81.6516)">
+  <g >
+   <rect  fill="#8D8C8C" x="0" y="0" height="2.2968" width="2.29896" id="connector0pin"/>
+   <rect  fill="#8C8663" x="0.56099" y="0.556952" height="1.18189" width="1.18398"/>
+   <polygon  fill="#B8AF82" points="0,2.2968,0.56099,1.73785,0.56099,0.501957,0,0"/>
+   <polygon  fill="#80795B" points="1.74297,0.558951,0.56899,0.558951,0,0,2.29896,0"/>
+   <polygon  fill="#5E5B43" points="1.74297,1.73785,1.74297,0.558951,2.29896,0,2.29896,2.2968"/>
+   <polygon  fill="#9A916C" points="0,2.2968,0.56699,1.73785,1.74297,1.73785,2.29896,2.2968"/>
+  </g>
+ </g>
+ <g transform="matrix(1, 0, 0, 1, 33.631, 81.6516)">
+  <g >
+   <rect  fill="#8D8C8C" x="0" y="0" height="2.2968" width="2.29896" id="connector1pin"/>
+   <rect  fill="#8C8663" x="0.56099" y="0.556952" height="1.18189" width="1.18398"/>
+   <polygon  fill="#B8AF82" points="0,2.2968,0.56099,1.73785,0.56099,0.501957,0,0"/>
+   <polygon  fill="#80795B" points="1.74297,0.558951,0.56899,0.558951,0,0,2.29896,0"/>
+   <polygon  fill="#5E5B43" points="1.74297,1.73785,1.74297,0.558951,2.29896,0,2.29896,2.2968"/>
+   <polygon  fill="#9A916C" points="0,2.2968,0.56699,1.73785,1.74297,1.73785,2.29896,2.2968"/>
+  </g>
+ </g>
+ <g transform="matrix(1, 0, 0, 1, 33.631, 2.4516)">
+  <g >
+   <rect  fill="#8D8C8C" x="0" y="0" height="2.2968" width="2.29896" id="connector6pin"/>
+   <rect  fill="#8C8663" x="0.56099" y="0.556952" height="1.18189" width="1.18398"/>
+   <polygon  fill="#B8AF82" points="0,2.2968,0.56099,1.73785,0.56099,0.501957,0,0"/>
+   <polygon  fill="#80795B" points="1.74297,0.558951,0.56899,0.558951,0,0,2.29896,0"/>
+   <polygon  fill="#5E5B43" points="1.74297,1.73785,1.74297,0.558951,2.29896,0,2.29896,2.2968"/>
+   <polygon  fill="#9A916C" points="0,2.2968,0.56699,1.73785,1.74297,1.73785,2.29896,2.2968"/>
+  </g>
+ </g>
+ <g transform="matrix(1, 0, 0, 1, 40.831, 81.6516)">
+  <g >
+   <rect  fill="#8D8C8C" x="0" y="0" height="2.2968" width="2.29896" id="connector2pin"/>
+   <rect  fill="#8C8663" x="0.56099" y="0.556952" height="1.18189" width="1.18398"/>
+   <polygon  fill="#B8AF82" points="0,2.2968,0.56099,1.73785,0.56099,0.501957,0,0"/>
+   <polygon  fill="#80795B" points="1.74297,0.558951,0.56899,0.558951,0,0,2.29896,0"/>
+   <polygon  fill="#5E5B43" points="1.74297,1.73785,1.74297,0.558951,2.29896,0,2.29896,2.2968"/>
+   <polygon  fill="#9A916C" points="0,2.2968,0.56699,1.73785,1.74297,1.73785,2.29896,2.2968"/>
+  </g>
+ </g>
+ <g transform="matrix(1, 0, 0, 1, 40.831, 2.4516)">
+  <g >
+   <rect  fill="#8D8C8C" x="0" y="0" height="2.2968" width="2.29896" id="connector5pin"/>
+   <rect  fill="#8C8663" x="0.56099" y="0.556952" height="1.18189" width="1.18398"/>
+   <polygon  fill="#B8AF82" points="0,2.2968,0.56099,1.73785,0.56099,0.501957,0,0"/>
+   <polygon  fill="#80795B" points="1.74297,0.558951,0.56899,0.558951,0,0,2.29896,0"/>
+   <polygon  fill="#5E5B43" points="1.74297,1.73785,1.74297,0.558951,2.29896,0,2.29896,2.2968"/>
+   <polygon  fill="#9A916C" points="0,2.2968,0.56699,1.73785,1.74297,1.73785,2.29896,2.2968"/>
+  </g>
+ </g>
+ <g transform="matrix(1, 0, 0, 1, 48.0311, 81.6516)">
+  <g >
+   <rect  fill="#8D8C8C" x="0" y="0" height="2.2968" width="2.29896" id="connector3pin"/>
+   <rect  fill="#8C8663" x="0.56099" y="0.556952" height="1.18189" width="1.18398"/>
+   <polygon  fill="#B8AF82" points="0,2.2968,0.56099,1.73785,0.56099,0.501957,0,0"/>
+   <polygon  fill="#80795B" points="1.74297,0.558951,0.56899,0.558951,0,0,2.29896,0"/>
+   <polygon  fill="#5E5B43" points="1.74297,1.73785,1.74297,0.558951,2.29896,0,2.29896,2.2968"/>
+   <polygon  fill="#9A916C" points="0,2.2968,0.56699,1.73785,1.74297,1.73785,2.29896,2.2968"/>
+  </g>
+ </g>
+ <g transform="matrix(1, 0, 0, 1, 48.0311, 2.4516)">
+  <g >
+   <rect  fill="#8D8C8C" x="0" y="0" height="2.2968" width="2.29896" id="connector4pin"/>
+   <rect  fill="#8C8663" x="0.56099" y="0.556952" height="1.18189" width="1.18398"/>
+   <polygon  fill="#B8AF82" points="0,2.2968,0.56099,1.73785,0.56099,0.501957,0,0"/>
+   <polygon  fill="#80795B" points="1.74297,0.558951,0.56899,0.558951,0,0,2.29896,0"/>
+   <polygon  fill="#5E5B43" points="1.74297,1.73785,1.74297,0.558951,2.29896,0,2.29896,2.2968"/>
+   <polygon  fill="#9A916C" points="0,2.2968,0.56699,1.73785,1.74297,1.73785,2.29896,2.2968"/>
+  </g>
+ </g>
+</g>
+</g></g></g><g partID='58540'><line stroke-linecap='round' stroke='#8c0000' x1='217.079' y1='3.2' x2='217.079' y2='46.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='217.079' y1='3.2' x2='217.079' y2='46.4' stroke-width='1.6' /></g><g partID='58400'><line stroke-linecap='round' stroke='#8c0000' x1='29.879' y1='39.2' x2='29.879' y2='3.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='29.879' y1='39.2' x2='29.879' y2='3.2' stroke-width='1.6' /></g><g partID='58470'><line stroke-linecap='round' stroke='#8c0000' x1='29.879' y1='3.2' x2='217.079' y2='3.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='29.879' y1='3.2' x2='217.079' y2='3.2' stroke-width='1.6' /></g><g partID='58680'><line stroke-linecap='round' stroke='#000000' x1='37.079' y1='10.4' x2='37.077' y2='39.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='37.079' y1='10.4' x2='37.077' y2='39.2' stroke-width='1.6' /></g><g partID='58750'><line stroke-linecap='round' stroke='#000000' x1='209.879' y1='10.4' x2='37.079' y2='10.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='209.879' y1='10.4' x2='37.079' y2='10.4' stroke-width='1.6' /></g><g partID='58610'><line stroke-linecap='round' stroke='#000000' x1='209.881' y1='46.4' x2='209.879' y2='10.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='209.881' y1='46.4' x2='209.879' y2='10.4' stroke-width='1.6' /></g><g partID='59100'><line stroke-linecap='round' stroke='#00a527' x1='123.479' y1='17.6' x2='123.48' y2='46.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='123.479' y1='17.6' x2='123.48' y2='46.4' stroke-width='1.6' /></g><g partID='58960'><line stroke-linecap='round' stroke='#00a527' x1='123.479' y1='17.6' x2='123.479' y2='17.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='123.479' y1='17.6' x2='123.479' y2='17.6' stroke-width='1.6' /></g><g partID='59030'><line stroke-linecap='round' stroke='#00a527' x1='123.479' y1='17.6' x2='123.479' y2='17.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='123.479' y1='17.6' x2='123.479' y2='17.6' stroke-width='1.6' /></g><g partID='58890'><line stroke-linecap='round' stroke='#00a527' x1='51.479' y1='17.6' x2='123.479' y2='17.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='51.479' y1='17.6' x2='123.479' y2='17.6' stroke-width='1.6' /></g><g partID='58820'><line stroke-linecap='round' stroke='#00a527' x1='51.4761' y1='39.2' x2='51.479' y2='17.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='51.4761' y1='39.2' x2='51.479' y2='17.6' stroke-width='1.6' /></g><g partID='59240'><line stroke-linecap='round' stroke='#d6d63a' x1='130.679' y1='32' x2='130.68' y2='46.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='130.679' y1='32' x2='130.68' y2='46.4' stroke-width='1.6' /></g><g partID='59170'><line stroke-linecap='round' stroke='#d6d63a' x1='44.278' y1='39.2' x2='44.279' y2='24.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='44.278' y1='39.2' x2='44.279' y2='24.8' stroke-width='1.6' /></g><g partID='59310'><line stroke-linecap='round' stroke='#d6d63a' x1='130.679' y1='24.8' x2='130.679' y2='32' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='130.679' y1='24.8' x2='130.679' y2='32' stroke-width='1.6' /></g><g partID='59380'><line stroke-linecap='round' stroke='#d6d63a' x1='109.079' y1='24.8' x2='123.479' y2='24.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='109.079' y1='24.8' x2='123.479' y2='24.8' stroke-width='1.6' /></g><g partID='59450'><line stroke-linecap='round' stroke='#d6d63a' x1='44.279' y1='24.8' x2='109.079' y2='24.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='44.279' y1='24.8' x2='109.079' y2='24.8' stroke-width='1.6' /></g><g partID='854237500'><line stroke-linecap='round' stroke='#d6d63a' x1='123.479' y1='24.8' x2='130.679' y2='24.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='123.479' y1='24.8' x2='130.679' y2='24.8' stroke-width='1.6' /></g><g partID='854238260'><line stroke-linecap='round' stroke='#000000' x1='281.879' y1='132.8' x2='281.879' y2='118.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='281.879' y1='132.8' x2='281.879' y2='118.4' stroke-width='1.6' /></g><g partID='854238150'><line stroke-linecap='round' stroke='#000000' x1='181.079' y1='132.8' x2='281.879' y2='132.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='181.079' y1='132.8' x2='281.879' y2='132.8' stroke-width='1.6' /></g><g partID='854237650'><line stroke-linecap='round' stroke='#000000' x1='181.311' y1='110.974' x2='181.079' y2='132.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='181.311' y1='110.974' x2='181.079' y2='132.8' stroke-width='1.6' /></g><g partID='854238870'><line stroke-linecap='round' stroke='#d6d63a' x1='339.479' y1='132.8' x2='289.079' y2='132.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='339.479' y1='132.8' x2='289.079' y2='132.8' stroke-width='1.6' /></g><g partID='854238800'><line stroke-linecap='round' stroke='#d6d63a' x1='339.479' y1='24.8' x2='339.479' y2='132.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='339.479' y1='24.8' x2='339.479' y2='132.8' stroke-width='1.6' /></g><g partID='854238940'><line stroke-linecap='round' stroke='#d6d63a' x1='289.079' y1='132.8' x2='289.079' y2='118.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='289.079' y1='132.8' x2='289.079' y2='118.4' stroke-width='1.6' /></g><g partID='854238730'><line stroke-linecap='round' stroke='#d6d63a' x1='173.879' y1='24.8' x2='339.479' y2='24.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='173.879' y1='24.8' x2='339.479' y2='24.8' stroke-width='1.6' /></g><g partID='854237680'><line stroke-linecap='round' stroke='#d6d63a' x1='173.88' y1='46.4' x2='173.879' y2='24.8' stroke-width='3.2' /><line stroke-linecap='round' stroke='#fff800' x1='173.88' y1='46.4' x2='173.879' y2='24.8' stroke-width='1.6' /></g><g partID='854238550'><line stroke-linecap='round' stroke='#00a527' x1='296.279' y1='140' x2='296.279' y2='118.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='296.279' y1='140' x2='296.279' y2='118.4' stroke-width='1.6' /></g><g partID='854238480'><line stroke-linecap='round' stroke='#00a527' x1='346.679' y1='17.6' x2='346.679' y2='140' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='346.679' y1='17.6' x2='346.679' y2='140' stroke-width='1.6' /></g><g partID='854238620'><line stroke-linecap='round' stroke='#00a527' x1='346.679' y1='140' x2='296.279' y2='140' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='346.679' y1='140' x2='296.279' y2='140' stroke-width='1.6' /></g><g partID='854238410'><line stroke-linecap='round' stroke='#00a527' x1='166.679' y1='17.6' x2='346.679' y2='17.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='166.679' y1='17.6' x2='346.679' y2='17.6' stroke-width='1.6' /></g><g partID='854237710'><line stroke-linecap='round' stroke='#00a527' x1='166.681' y1='46.4' x2='166.679' y2='17.6' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='166.681' y1='46.4' x2='166.679' y2='17.6' stroke-width='1.6' /></g><g partID='854237850'><line stroke-linecap='round' stroke='#8c0000' x1='188.279' y1='147.2' x2='303.479' y2='147.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='188.279' y1='147.2' x2='303.479' y2='147.2' stroke-width='1.6' /></g><g partID='854237740'><line stroke-linecap='round' stroke='#8c0000' x1='188.51' y1='110.974' x2='188.279' y2='147.2' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='188.51' y1='110.974' x2='188.279' y2='147.2' stroke-width='1.6' /></g><g partID='854237960'><line stroke-linecap='round' stroke='#8c0000' x1='303.479' y1='147.2' x2='303.479' y2='118.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='303.479' y1='147.2' x2='303.479' y2='118.4' stroke-width='1.6' /></g><g partID='854237480' id='partLabel'><g transform='translate(263.378,28.597)' ><g font-size='9' font-style='normal' font-weight='normal' fill='#000000' font-family="'DroidSans'" id='breadboardLabel' fill-opacity='1' stroke='none' ><text x='0' y='6.75'>GY-NEO6MV2</text></g></g></g></svg>
